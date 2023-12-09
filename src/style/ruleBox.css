@@ -1,0 +1,14 @@
+.box{
+    background: url("../images/1stBox.png");
+    background-size: cover;
+}
+.ruleImg{
+    width: 45px !important;
+}
+.box {
+    transition: transform 0.3s ease-in-out;
+  }
+  
+  .box:hover {
+    transform: scale(1.1); 
+  }  
